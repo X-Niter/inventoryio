@@ -1,0 +1,8 @@
+name: Inventoryio
+version: '${version}'
+main: com.niter.inventoryio.Inventoryio
+api-version: 1.16
+prefix: IIO
+authors: [ X_Niter ]
+description: Custom minecraft inventory system
+website: https://mc-nova.net
