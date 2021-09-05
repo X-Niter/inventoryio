@@ -1,5 +1,9 @@
 # inventoryio
 
+## This plugin is going to sleep!
+
+I found a better method to make this happen through using WorldGuard flags. Called [WTFlags](https://github.com/X-Niter/WTFlag)
+
 Some details will come soon!
 
 For now, this is a 1.16.5 Paper/spigot plugin to only allow one person at a time inside of a chest.
